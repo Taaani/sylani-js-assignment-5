@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.boxShadow{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+
+.border1{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
